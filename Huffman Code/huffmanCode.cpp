@@ -216,5 +216,3 @@ int main() {
   HuffmanCodes(character, frequency, size);
   return 0;
 }
-
-//https://www.programiz.com/dsa/huffman-coding
